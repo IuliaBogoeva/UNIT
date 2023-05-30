@@ -9,7 +9,7 @@ public class GalToLitTable {
             liters = gallons * 3.7854;
             System.out.println(gallons + " галлонам соответствует " + liters + "liters.");
             counter++;
-            if(counter == 10); {
+            if(counter == 10) {
                 System.out.println();
                 counter = 0;
             }
