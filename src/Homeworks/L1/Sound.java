@@ -1,6 +1,5 @@
 package Homeworks.L1;
 
-import java.util.Scanner;
 public class Sound {
     public static void main(String [] args) {
         double dist;
